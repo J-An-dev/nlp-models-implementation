@@ -1,6 +1,6 @@
 # Image Captioning with Conditioned LSTM Generators
 
-## Instruction
+## Introduction
 This porject builds the following components: 
 
 * Create matrices of image representations using an off-the-shelf image encoder.
